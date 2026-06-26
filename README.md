@@ -15,8 +15,6 @@ The project supports three detection modes:
 (3) Live webcam detection. Run the detector in real time on a connected USB webcam, drawing boxes on the live feed.
 <img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/1da2b3d6-9d92-4ddb-ae08-0155b3f7bd70" />
 
-
-
 ## Scripts
 
 Each script performs a single step of the pipeline.
