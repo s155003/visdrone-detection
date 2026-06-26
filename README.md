@@ -12,6 +12,7 @@ The project supports three detection modes:
 
 (2) Video detection. Run the detector frame by frame across VisDrone-VID sequences, then stitch the annotated frames into playable videos.
 
+
 (3) Live webcam detection. Run the detector in real time on a connected USB webcam, drawing boxes on the live feed.
 <img width="302.4" height="403.2" alt="unnamed" src="https://github.com/user-attachments/assets/1da2b3d6-9d92-4ddb-ae08-0155b3f7bd70" />
 
