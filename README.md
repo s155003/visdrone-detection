@@ -10,10 +10,14 @@ The project supports three detection modes:
 
 (1) Static image detection. Run the detector on individual VisDrone images and save the results with bounding boxes drawn on detected objects.
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/88248845-7967-4563-83b2-0389ef235145" />
+
 (2) Video detection. Run the detector frame by frame across VisDrone-VID sequences, then stitch the annotated frames into playable videos.
 
+https://drive.google.com/file/d/1R59X1NZ5zQr8MV5xMt-ibV2fHHB1H93j/view?usp=sharing
 
 (3) Live webcam detection. Run the detector in real time on a connected USB webcam, drawing boxes on the live feed.
+
 <img width="302.4" height="403.2" alt="unnamed" src="https://github.com/user-attachments/assets/1da2b3d6-9d92-4ddb-ae08-0155b3f7bd70" />
 
 ## Scripts
