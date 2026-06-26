@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1R59X1NZ5zQr8MV5xMt-ibV2fHHB1H93j/view?usp=shari
 
 (3) Live webcam detection. Run the detector in real time on a connected USB webcam, drawing boxes on the live feed.
 
-<img width="302.4" height="403.2" alt="unnamed" src="https://github.com/user-attachments/assets/1da2b3d6-9d92-4ddb-ae08-0155b3f7bd70" />
+<img width="960" height="540" alt="unnamed" src="https://github.com/user-attachments/assets/1da2b3d6-9d92-4ddb-ae08-0155b3f7bd70" />
 
 ## Scripts
 
